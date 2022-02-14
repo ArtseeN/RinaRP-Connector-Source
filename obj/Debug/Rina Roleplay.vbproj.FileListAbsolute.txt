@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Rina Roleplay\bin\Debug\Rina Roleplay.exe.config
+C:\Users\Lenovo\source\repos\Rina Roleplay\bin\Debug\Rina Roleplay.exe
+C:\Users\Lenovo\source\repos\Rina Roleplay\bin\Debug\Rina Roleplay.pdb
+C:\Users\Lenovo\source\repos\Rina Roleplay\bin\Debug\Rina Roleplay.xml
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina Roleplay.vbprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina_Roleplay.Form1.resources
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina_Roleplay.Resources.resources
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina Roleplay.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina Roleplay.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina Roleplay.exe
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina Roleplay.xml
+C:\Users\Lenovo\source\repos\Rina Roleplay\obj\Debug\Rina Roleplay.pdb
